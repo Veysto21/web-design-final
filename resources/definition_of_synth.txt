@@ -1,0 +1,6 @@
+<h1 style="background-color:powderblue;">An Extended Definition of Synthesizers </h1>
+        <p style="background-color:grey;"><br>A synthesizer is an electronic musical instrument that generates sound that can be manipulated using various methods of producing and merging frequencies.
+        The capabilities of synthesizers are far beyond the scope and flexibility of the sounds traditional analog instruments can generate. An elaborate design of wires,
+        integrated circuits, resistors, capacitors, etc. are the elements of signal processing for these machines. Developing the frequency, velocity, amplification,
+        duration and timbre is entirely up to the imagination and knowledge of an individual using the device.<br>
+        <br></p>
